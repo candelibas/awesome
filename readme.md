@@ -79,7 +79,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science)
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
 	- [npm](https://github.com/sindresorhus/awesome-npm)
-- [Swift](https://github.com/matteocrippa/awesome-swift)
+- [Swift](https://github.com/matteocrippa/Fawesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
 - [Python](https://github.com/vinta/awesome-python)
@@ -167,6 +167,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette)
 - [Aurelia](https://github.com/behzad888/awesome-aurelia)
 - [Charting](https://github.com/zingchart/awesome-charting)
+- [Ionic Framework 2](https://github.com/candelibas/awesome-ionic2)
 
 
 ## Back-end Development
